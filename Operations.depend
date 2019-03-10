@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552183576 source:c:\users\soufi\desktop\task\operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
